@@ -6,7 +6,7 @@ ResumePilot is a modern ATS-aware resume builder that helps students and job see
 
 ### Live Demo
 
-🔗 [Add Your Deployed Link Here]
+🔗 https://tryresumepilot.netlify.app/
 
 ---
 
